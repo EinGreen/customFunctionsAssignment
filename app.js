@@ -11,3 +11,4 @@ function multiply(number, number2) {
 var multiplied = multiply(8, 2);
 console.log(multiplied);
 
+// create a Function that states whether a string is > 10 characters or not
